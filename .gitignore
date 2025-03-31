@@ -2,3 +2,4 @@
 **/*.bkp
 **/*.png
 **/build/
+**/*.lock
