@@ -30,7 +30,6 @@
 | IVA (19%)                        | |  
 | **TOTAL**                        | |  
 
-
 ## INSTRUCCIONES DE PAGO  
 
 1. Pague antes de la fecha de vencimiento para evitar suspensiones.  
