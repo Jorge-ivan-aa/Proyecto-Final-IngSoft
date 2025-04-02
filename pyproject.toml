@@ -6,7 +6,7 @@ authors = [
     {name = "Jorge-ivan-aa",email = "jorgei.acostaa@uqvirtual.edu.co"}
 ]
 
-license = {text = "gpl v3.0"}
+license = {text = "GPL v3.0"}
 readme = "README.md"
 requires-python = ">=3.9,<3.14"
 dependencies = [

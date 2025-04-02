@@ -11,26 +11,24 @@ agregar nuevos tecnicos y visualizar clientes.
 
 1. **Solicitud del servicio:**
 
-    ![ ](image-1.png)
+    ![ ](image.png)
+
 2. **Contrato de prestación del servicio:**
-_Disponible pronto..._
+
+    ![ ](image-1.png)
 
 3. **Generación de factura:**
-_Disponible pronto..._
+
+    ![ ](image-2.png)
 
 ## Interfaz de tecnico
 
 - **Realizar informe de viabilidad:**
 
-    ![ ](image-2.png)
+    ![ ](image-3.png)
 
 ## Interfaz de administrador
 
 1. **Administrar solicitudes:**
 
-    ![ ](image-3.png)
-2. **Administrar tecnicos:**
-_Disponible pronto..._
-
-3. **Administrar clientes:**
-_Disponible pronto..._
+    ![ ](image-4.png)
